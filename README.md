@@ -12,16 +12,16 @@ Bem-vindo ao meu Repositório, onde compartilho meu caminho como desenvolvedor f
 
 ### Principais Habilidades
 
-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a> JavaScript 
-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a> HTML 
-- <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a> CSS 
-- <img src="https://img.shields.io/badge/ColdFusion-ED2939?style=for-the-badge&logo=coldfusion&logoColor=white&color=blue" /></a> ColdFusion 
-- <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /></a> SQL SERVER 
+- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+- <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+- <img src="https://img.shields.io/badge/ColdFusion-ED2939?style=for-the-badge&logo=coldfusion&logoColor=white&color=blue" /></a>
+- <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /></a>
 
 ### Metodologias e Ferramentas
 
-- <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white" /></a> Metodologia Ágil: Scrum
-- <img src="https://img.shields.io/badge/OWASP-ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" /></a> Segurança: OWASP ZAP
+- <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white" /></a>
+- <img src="https://img.shields.io/badge/OWASP-ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" /></a>
 
 ### Redes Sociais
 
