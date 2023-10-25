@@ -6,7 +6,7 @@ Bem-vindo ao meu espaço digital, onde compartilho meu caminho como desenvolvedo
 
 ### Sobre Mim
 
-- 🇧🇷 Brasileiro
+- 🌆 Brasileiro
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 💻 Desenvolvedor Fullstack
 
@@ -25,8 +25,10 @@ Bem-vindo ao meu espaço digital, onde compartilho meu caminho como desenvolvedo
 
 ### Redes Sociais
 
-- [LinkedIn](https://www.linkedin.com/in/luiz-eduardo-gomes-dias/) - Conecte-se comigo no LinkedIn para discussões profissionais e networking.
-- [Instagram](https://www.instagram.com/_gomeszlu/) - Siga-me no Instagram para atualizações do meu dia a dia e projetos.
+- <a href="https://www.linkedin.com/in/luiz-eduardo-gomes-dias/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-eduardo-gomes-dias/" /></a>
+- <a  href="https://www.instagram.com/_gomeszlu/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/_gomeszlu/"/></a>
 
 ### Contatos
 
