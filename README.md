@@ -50,10 +50,6 @@ Bem-vindo ao meu Repositório, onde compartilho meu caminho como desenvolvedor f
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=HeDuz7&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-## 👽 My Activies:
-<img src="https://raw.githubusercontent.com/HeDuz7/HeDuz7/output/snake.svg" alt="Snake animation" />
-
-
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
