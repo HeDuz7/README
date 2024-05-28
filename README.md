@@ -51,7 +51,20 @@ Bem-vindo ao meu Repositório, onde compartilho meu caminho como desenvolvedor f
 ![](https://github-profile-trophy.vercel.app/?username=HeDuz7&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/HeDuz7/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/HeDuz7/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/HeDuz7/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ### 👀 Views
 
